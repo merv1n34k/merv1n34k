@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 My name is Oleksii, I am biotechnologist and data science enthuisiast, who is keen on developing solution which make life clearer, healthier and efficient.  
 
-Heve interest in: metabolic and cell line engineering, bioenergetics, software development and visualization.
+Have interests in: metabolic and cell line engineering, bioenergetics, software development and visualization.
 
 How to reach me: [merv1n@proton.me](mailto:merv1n@proton.me)
 
